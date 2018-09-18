@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jross7997.github.io/"
 
 github_username:  jross7997
+linkedin_username: justin-ross
 
 # Build settings
 markdown: kramdown
