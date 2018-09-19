@@ -26,7 +26,7 @@ permalink: /courses/
 * [CSC 241: Abstract Data Types and Programming Methods](https://github.com/jross7997/CSC241)
 * [CSC 322: Systems Programming](https://github.com/jross7997/CSC322)
 * [CSC 333: Privacy/Security/Cryptography](https://github.com/jross7997/CSC333-Brute-Force-Chrome-Extension)
-* CSC 416: Artificial Intelligence Programming Languages
+* [CSC 416: Artificial Intelligence Programming Languages](https://github.com/jross7997/CSC416)
 * [CSC 435: Web Services](https://github.com/jross7997/CSC435-Shopping-Cart-Dropwizard)
 * CSC 490: Latex
 
