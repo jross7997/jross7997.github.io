@@ -17,7 +17,7 @@ permalink: /courses/
 * ECE 454: Communication Systems
 * [ECE 475: Computer Architecture](https://github.com/jross7997/ECE475-CPU-Project)
 * ECE 491: Capstone Proposal
-* ECE 492: Capstone Design
+* [ECE 492: Capstone Design](https://github.com/jross7997/Hexapod-Robot-Senior-Capstone)
 * ECE 499: Electrohydrodynamics Research
 
 # Computer Science
