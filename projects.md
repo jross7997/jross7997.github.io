@@ -5,15 +5,23 @@ permalink: /projects/
 ---
 
 * [**Hexapod Walking Robot**](https://github.com/jross7997/Hexapod-Robot-Senior-Capstone)
-\- For my Engineering Senior Capstone, my team and I designed, built, and programmed a Hexapod Walking Robot that was wirelessly controlled via a web app. I did most of the programming in this project and helped with assembling and troubleshooting the robot.
+\- For my Engineering Senior Capstone, my team and I designed, built, and programmed a Hexapod Walking Robot that was wirelessly 
+	controlled via a web app. I did most of the programming in this project and helped with assembling and troubleshooting the 
+	robot.
 
-The robot has six legs, each with two joints. Overall it has 12 degrees of freedom. The servos are controlled with the TM4C123GH6PM (previously called the Tiva-C) Microcontroller, which was programmed in C. The web app was served and processed with the NodeMCU WiFi-enabled MicroController, and that was programmed with the Arduino IDE. The NodeMCU communicates to the Tiva-C using a one-way UART Bridge.
+	The robot has six legs, each with two joints. Overall it has 12 degrees of freedom. The servos are controlled with the 
+	TM4C123GH6PM (previously called the Tiva-C) Microcontroller, which was programmed in C. The web app was served and processed 
+	with the NodeMCU WiFi-enabled MicroController, and that was programmed with the Arduino IDE. The NodeMCU communicates to the 
+	Tiva-C using a one-way UART Bridge.
 
-The robot could walk forwards, backwards, turn left and right, and had two different waving functions. It could be run in Continuous mode, which would allow for the robot to walk continuously forever. It has a slow mode that makes it walk slower, to better show off the tripod gait that it uses.
+	The robot could walk forwards, backwards, turn left and right, and had two different waving functions. It could be run in 
+	Continuous mode, which would allow for the robot to walk continuously forever. It has a slow mode that makes it walk slower, to 
+	better show off the tripod gait that it uses.
 
-Overall, the robot worked very well, It was robotic in it's movements, so the addition of more degrees of freedom would be a great improvement. The robot also is lacking a battery, so it is tied to a Lab Bench power Supply.
+	Overall, the robot worked very well, It was robotic in it's movements, so the addition of more degrees of freedom would be a 
+	great improvement. The robot also is lacking a battery, so it is tied to a Lab Bench power Supply.
 
-If you're interested in learning more, check out this [project report]({{ "/docs/Walking-Robot-Report.pdf" | absolute_url }}).
+	If you're interested in learning more, check out this [project report]({{ "/docs/Walking-Robot-Report.pdf" | absolute_url }}).
 
 * [**LED Flicker Research**](https://github.com/jross7997/LED-Flicker-Research)
 	\- The flickering of a light source can cause some negative psychological and physiological effects on a person, such as headaches, migranes, and decreased
