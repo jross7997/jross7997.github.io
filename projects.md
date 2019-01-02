@@ -9,10 +9,7 @@ permalink: /projects/
 	controlled via a web app. I did most of the programming in this project and helped with assembling and troubleshooting the 
 	robot.
 
-	The robot has six legs, each with two joints. Overall it has 12 degrees of freedom. The servos are controlled with the 
-	TM4C123GH6PM (previously called the Tiva-C) Microcontroller, which was programmed in C. The web app was served and processed 
-	with the NodeMCU WiFi-enabled MicroController, and that was programmed with the Arduino IDE. The NodeMCU communicates to the 
-	Tiva-C using a one-way UART Bridge.
+	The robot has six legs, each with two joints. Overall it has 12 degrees of freedom. The servos are controlled with the TM4C123GH6PM (previously called the Tiva-C) Microcontroller, which was programmed in C. The web app was served and processed with the NodeMCU WiFi-enabled MicroController, and that was programmed with the Arduino IDE. The NodeMCU communicates to the Tiva-C using a one-way UART Bridge.
 
 	The robot could walk forwards, backwards, turn left and right, and had two different waving functions. It could be run in 
 	Continuous mode, which would allow for the robot to walk continuously forever. It has a slow mode that makes it walk slower, to 
