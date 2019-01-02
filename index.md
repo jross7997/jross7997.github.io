@@ -14,15 +14,13 @@ layout: page
 
 </div>
 
-My name is Justin Ross and I'm an Electrical and Computer Engineering major with a Computer Science minor at SUNY Oswego. 
-I will be graduating in December of 2018. I work as a Peer Tutor and a Networking Assistant, and I've worked in two 
-different research labs while in school. This year I am working on my Senior Capstone Design project, which is going to be a 
-walking robot. My team and I are interested in a hexapod design that can be wirelessly controlled. 
+My name is Justin Ross and I'm a new graduate from SUNY Oswego with a degree in Electrical and Computer Engineering with a Computer 
+Science minor at SUNY Oswego. I am interested in working in digital design, firmware, and embedded systems.
 
-Outside of school, I'm interested in learning more about renewable energy and low power technologies. I, like many others, have
- concerns about the impact that we are having on our environment. I'm really looking forward to getting an electric car. I love my 
-old Jeep, but it's a major gas guzzler and it's really not economical. 
+In my free time, I like to research and work on personal projects. I've just begun researching a wireless plant notification system. I 
+want my plants to send me email notifications that remind me to water them whenever they get too dry. I also like spending time with my 
+wonderful girlfriend, Hannah, and cooking.
 
-On this site, you can find a list of courses that I have taken and am currently taking, a list of projects that I've done with some short descriptions 
+On this site, you can find a list of courses that I have taken, a list of projects that I've done with some short descriptions 
 of each, my résumé, my CV, and a nifty little contact me page.
 
